@@ -1,6 +1,12 @@
 # SpeciFlex
 
-SpeciFlex comes in two flavors, `SpeciFlex_solo` and `SpeciFlex_compare`. `SpeciFlex_solo` is used to analyze a single trajectory, whereas `SpeciFlex_compare` can be used to compare two trajctories to each other (i.e., computing their difference-volumne).
+SpeciFlex comes in two flavors, `SpeciFlex_solo` and `SpeciFlex_compare`. `SpeciFlex_solo` is used to analyze a single trajectory, whereas `SpeciFlex_compare` can be used to compare two trajctories to each other (i.e., computing their difference-volume).
+
+## More information about SpeciFlex
+
+Please refer to the SpeciFlex manuscript for more information about the theory behind SpeciFlex:
+
+- Matthew E. Tonero, Leslie A. Kuhn. *SpeciFlex: A Protocol for Mining Binding Site Conformational Selectivity in Structure-Based Inhibitor Discovery* bioRxiv 304931; doi: [https://doi.org/10.1101/304931](https://doi.org/10.1101/304931)
 
 
 ## Installing SpeciFlex
